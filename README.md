@@ -368,7 +368,7 @@ Here is the list of interables in JavaScript.
 
     const array = [5, 10, 15, 20, 25, 30, 35];
 
-    for(var value of a){
+    for(var value of array){
     	console.log(value);
     }
 
